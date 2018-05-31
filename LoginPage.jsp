@@ -15,7 +15,8 @@
 	<body>
 		<form action="http://localhost:8000/LoginExample/servlet/examplePage.LoginServlet">
 
-			Please enter your username 		
+			Please enter your username to continue
+			
 			<input type="text" name="un"/><br>		
 		
 			Please enter your password
